@@ -1,5 +1,5 @@
-# Project---Programming
-Project   - Programming for Data Analysis
+# Project - Programming for Data Analysis
+
 ![](GMIT.JPG)
 
 
