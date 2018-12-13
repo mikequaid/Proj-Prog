@@ -18,4 +18,4 @@ Software used to make this repository: Anaconda version 3.6.5; Jupyter notebook 
 	- Week-ending 14th Dec: Final review and changes
 
 
-![](outcomes1.JPG)
+![module outcomes](https://raw.githubusercontent.com/mikequaid/data/master/outcomes1.JPG)
