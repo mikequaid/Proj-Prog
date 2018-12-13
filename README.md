@@ -1,6 +1,6 @@
 # Project - Programming for Data Analysis
 
-![](GMIT.JPG)
+![GMIT](https://raw.githubusercontent.com/mikequaid/data/master/GMIT.JPG)
 
 
 This repository is for a project to be submitted for the module Programming for Data Analysis.
